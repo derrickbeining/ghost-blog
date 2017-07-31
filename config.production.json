@@ -24,7 +24,7 @@
   },
   "process": "systemd",
   "paths": {
-    // "contentPath": "/var/www/ghost/content"
-      "contentPath": "/var/www/ghost/versions/1.1.0/content"
+    "contentPath": "/var/www/ghost/content"
+      // "contentPath": "/var/www/ghost/versions/1.1.0/content"
   }
 }
