@@ -1,7 +1,7 @@
 {
   "url": "https://www.derrickbeining.com",
   "server": {
-    "port": 2368,
+    "port": 2369,
     "host": "127.0.0.1"
   },
   "database": {
@@ -25,6 +25,5 @@
   "process": "systemd",
   "paths": {
     "contentPath": "/var/www/ghost/content"
-      // "contentPath": "/var/www/ghost/versions/1.1.0/content"
   }
 }
